@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.head-image {
+  display: flex;
+  padding: 30px;
+justify-content: center;
+}
+
+.head-text {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: #f4f4f4;
+}
+
+.btn-email {
+  background-color: black;
+  color: white;
+}
+
+.btn-phone {
+  background-color: black;
+  color: white;
+}
+
+.btn-github {
+  background-color: black;
+  color: white;
+}
+
+.btn-website {
+  background-color: black;
+  color: white;
+}
